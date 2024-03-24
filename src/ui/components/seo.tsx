@@ -17,7 +17,7 @@ export const Seo = ({title, description}: Props) => {
           name="viewport"
           content="width-device-width, initial-scale-1"
         />
-        <link rel="stylesheet" href="/favicon.ico" />
+        {/* <link rel="stylesheet" href="/favicon.ico" /> */}
       </Head>
     )
 }
